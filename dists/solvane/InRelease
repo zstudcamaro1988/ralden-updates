@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: solvane
+Components: main
+Date: Thu, 22 Oct 2026 04:26:27 +0000
+Description: Solvane OS updates
+Label: Solvane
+Origin: Solvane
+Suite: solvane
+MD5Sum:
+ 3a60045084660fb646a813d645724949              780 main/binary-amd64/Packages
+ 3bdd7a2b9de5b4b19a3925e959b5ae26              524 main/binary-amd64/Packages.gz
+SHA1:
+ 11595382b89686c72efaf5f8b06174071851838e              780 main/binary-amd64/Packages
+ 267ef3ae8214d968002771d3ec11917800c7ced2              524 main/binary-amd64/Packages.gz
+SHA256:
+ 579ec30d5ff87f3d593f84d27ef92dba083a0076836de8d0c86e9d815cc81bc4              780 main/binary-amd64/Packages
+ a0721af0545327e927f0a2b9dc5864005df0b7d79d36b2839083b9e1d8918b0e              524 main/binary-amd64/Packages.gz
+SHA512:
+ d6af06a3ba5f92382e1b58c02ffa1ced90cf9b4612da99308113abc56139131d72491ebf6962a157ddb3deec3b328b0f3b8b7aebb25c9f3bccacfdaf7af11e3e              780 main/binary-amd64/Packages
+ c64a2cdb90b5f8a06065e864c3d7af9c4fc5a9ecb385c04de2aa2afa38326dc56d5f1a2fbf11e3f873277b83ce0e79b43180febcba5d1c78e2b878911e8f1ca3              524 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iI4EARYKADYWIQTQ89Gv7ic1zj61ebZ7m7EFvRfITAUCatmQcxgcdXBkYXRlc0Bz
+b2x2YW5lLmludmFsaWQACgkQe5uxBb0XyEznLwEA4934cQlqHDh+38H85GSKR9n7
+fQsYUNcBfqrUc6CRqGwBAKQrv7i6mn9dTsscwc6wTuFSFARSsbLC/i+Cf4Lhmu0P
+=Y2G9
+-----END PGP SIGNATURE-----

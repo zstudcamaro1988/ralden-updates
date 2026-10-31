@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: ralden
+Components: main
+Date: Sat, 31 Oct 2026 17:04:10 +0000
+Description: Ralden OS updates
+Label: Ralden
+Origin: Ralden
+Suite: ralden
+MD5Sum:
+ 9b00360931a14f7479e5617c7e2c0e43             4640 main/binary-amd64/Packages
+ 8162dfd77399553c7fdbb548f694c276             1552 main/binary-amd64/Packages.gz
+SHA1:
+ 9561e6113e633cd1d5d51b576e5c6a4142b27fec             4640 main/binary-amd64/Packages
+ 615234894121851b30dbb80b436b40b8fe9fcb22             1552 main/binary-amd64/Packages.gz
+SHA256:
+ 88b491879b10e6bec7524fd6463e4ee9ae4b05896329520102f2edc30562801d             4640 main/binary-amd64/Packages
+ 0d42aa8107951aeb6800d36b7235ebb8fb27bedc1d70acb44fdde46479fa23d3             1552 main/binary-amd64/Packages.gz
+SHA512:
+ 2e79ca8330dac99bd2e0f3869f62e8ea1a2922da05a708254b20de41c6582048cfcdfa89c6d0a7d486852f710668c5ffdbff736755519bb6cd3774031d7bdad7             4640 main/binary-amd64/Packages
+ cf3db3dd9600b1941599da34a4ca2d0062d0c3ca4aadfcbd1346d925cb0690753ef78cfc151d82ecfff7b8e7eac6f5e2d42239fda87e3adba195e0f00958cb83             1552 main/binary-amd64/Packages.gz

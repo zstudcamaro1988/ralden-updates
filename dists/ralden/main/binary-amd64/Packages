@@ -1,0 +1,108 @@
+Package: ralden
+Architecture: all
+Version: 0.1.46+202610281700
+Priority: optional
+Section: misc
+Maintainer: Ralden OS <updates@ralden.invalid>
+Installed-Size: 3844
+Filename: pool/main/ralden_0.1.46+202610281700_all.deb
+Size: 2014816
+MD5sum: c015421364a0609d5b0ca59813b9ac1a
+SHA1: dd5ac4bcdf772817dd653e23bc2acbb343e18e55
+SHA256: dcc46eb7731d7238b27a1668641f6d8ccb1dc47ca9ede234ad3a802a7d5013fb
+SHA512: b278dc7d3e8795bcee486c9ed0792dda388864f7884f95d3d9bca25acab9fd9c1a414b721f50a4dab686f7f7b94167b70a9235eabccff3c240e839661da2b44c
+Description: Ralden OS - the parts Ralden makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Ralden's look, as the
+ Ralden OS disc of this version had them.
+
+Package: ralden
+Architecture: all
+Version: 0.1.47+202610281904
+Priority: optional
+Section: misc
+Maintainer: Ralden OS <updates@ralden.invalid>
+Installed-Size: 3842
+Filename: pool/main/ralden_0.1.47+202610281904_all.deb
+Size: 2014356
+MD5sum: f0ea5fc52351d5324114eddf0e3202f0
+SHA1: bc3354975572b44f4ce0b25ac70de21669f75ef7
+SHA256: 2133d8e7479fa17c5e1f62343c22e142fdccd3d82a3ea188dbf500b3ebb49f68
+SHA512: 0781b9610b730893140c518850c19ff6085bc893a73a7f242d03817a5505cb18602e9bf6867c1994c19943b077ffe8f38e20fa524ab3d8bb2387fce915e9e2ba
+Description: Ralden OS - the parts Ralden makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Ralden's look, as the
+ Ralden OS disc of this version had them.
+
+Package: ralden
+Architecture: all
+Version: 0.1.48+202610290024
+Priority: optional
+Section: misc
+Maintainer: Ralden OS <updates@ralden.invalid>
+Installed-Size: 3844
+Filename: pool/main/ralden_0.1.48+202610290024_all.deb
+Size: 2015332
+MD5sum: 031b1ad49d043938591109a971c2a1b2
+SHA1: cb3a5ec585a89cb21eb154ebf0165fef15fa2bb0
+SHA256: c6f54912836556ccc811a459b921b147480d122392237bb0ee32ab49f1933143
+SHA512: 12ed059e217d1deabb272a521bc2810b216177c1ead8091b35999fcb0ac9845076e9c7419f0eb1994de296aaab64ee8b3e6d42362230bef6f3234d4e7fb00833
+Description: Ralden OS - the parts Ralden makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Ralden's look, as the
+ Ralden OS disc of this version had them.
+
+Package: ralden
+Architecture: all
+Version: 0.1.49+202610291243
+Priority: optional
+Section: misc
+Maintainer: Ralden OS <updates@ralden.invalid>
+Installed-Size: 3848
+Filename: pool/main/ralden_0.1.49+202610291243_all.deb
+Size: 2016460
+MD5sum: 314d88b64a81e524d25c112b2fc16f43
+SHA1: ffb82786c9b7805187d6700fd5a9a0fa1a3f299b
+SHA256: 7d8bdde65171a590433743c891f8e4e936dd7ddb1a9b6fc3c145eff2ef166c70
+SHA512: 3826f90288ac7d1f58cf4766f0fc171bbc5616d05ccf4e19ddfc6417cf0bce973d7b44c4c4ce19a23e188f26b88ad0c0310871dbcb11a7e46324fd0b4fcf6b03
+Description: Ralden OS - the parts Ralden makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Ralden's look, as the
+ Ralden OS disc of this version had them.
+
+Package: ralden
+Architecture: all
+Version: 0.1.50+202610311651
+Priority: optional
+Section: misc
+Maintainer: Ralden OS <updates@ralden.invalid>
+Installed-Size: 3848
+Filename: pool/main/ralden_0.1.50+202610311651_all.deb
+Size: 2016552
+MD5sum: db5b92435279c0daf1aad34c377e2ff8
+SHA1: aea8d0b1768f0cd10e0de7150806fdde6ceb1cb3
+SHA256: d1e0245727aff7e979e0ef91a22b26bab4113f4579894368c773fd77502ef20f
+SHA512: 27e8d7f2e09da79751ec62ee3b40644b4d4b7a37a65570652221da1f5d0dc111a8b8d2364ae47f7c4a8edc6428aa110157fc338311ceda9e9de9c552fa18542d
+Description: Ralden OS - the parts Ralden makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Ralden's look, as the
+ Ralden OS disc of this version had them.
+
+Package: solvane
+Architecture: all
+Version: 0.1.39+202610220413
+Priority: optional
+Section: misc
+Maintainer: Solvane OS <updates@solvane.invalid>
+Installed-Size: 2232
+Filename: pool/main/solvane_0.1.39+202610220413_all.deb
+Size: 1104432
+MD5sum: e631f9f8fea1f8863e962ab66675b53b
+SHA1: 894615e6a436d506ee412bbd9eb7b85273a13798
+SHA256: 64be85b7d727a67361c242e4353496ad1a6acfb27a245a550e256a1d9ef26b8b
+SHA512: 9730e1ed10770c178ee6f6550b4391b33b6258f7b958c8b33a0cbda914383998df4d4b2c1a3741ff0643778bccf8ab7b6344fe05522fadabbaa85b631a6f43af
+Description: Solvane OS - the parts Solvane makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Solvane's look, as the
+ Solvane OS disc of this version had them.
+

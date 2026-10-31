@@ -1,0 +1,18 @@
+Package: solvane
+Architecture: all
+Version: 0.1.39+202610220413
+Priority: optional
+Section: misc
+Maintainer: Solvane OS <updates@solvane.invalid>
+Installed-Size: 2232
+Filename: pool/main/solvane_0.1.39+202610220413_all.deb
+Size: 1104432
+MD5sum: e631f9f8fea1f8863e962ab66675b53b
+SHA1: 894615e6a436d506ee412bbd9eb7b85273a13798
+SHA256: 64be85b7d727a67361c242e4353496ad1a6acfb27a245a550e256a1d9ef26b8b
+SHA512: 9730e1ed10770c178ee6f6550b4391b33b6258f7b958c8b33a0cbda914383998df4d4b2c1a3741ff0643778bccf8ab7b6344fe05522fadabbaa85b631a6f43af
+Description: Solvane OS - the parts Solvane makes itself
+ Settings, Files, the desktop's panes, the login and lock screens, the
+ installer's helpers, the boot screen's tools and Solvane's look, as the
+ Solvane OS disc of this version had them.
+
